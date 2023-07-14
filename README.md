@@ -25,8 +25,4 @@ The project is organized into the following sections:
 
 Andrewli1212, mlucas1206, jkoo23, alykrauze
 ---
-<<<<<<< HEAD
-=======
 
-
->>>>>>> cbd1b7fcc5ca6bf4b31390815895933f981697ab
